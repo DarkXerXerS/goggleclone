@@ -114,7 +114,6 @@ h1 {
 .root {
   display: flex;
   justify-content: center;
-  /* width: 50%; */
 }
 .root h4 {
   margin: 30px 20px;
